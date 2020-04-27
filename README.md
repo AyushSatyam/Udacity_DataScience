@@ -31,7 +31,7 @@ Notebook containing the data analysis.
 Stackoverflow's 2019 Annual Developer Survey data.
 
 ## Results
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@07ayushkasera/the-most-popular-programming-language-and-development-environment-5cfaabf4081a)
 
 ## Licensing, Authors, Acknowledgements
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
